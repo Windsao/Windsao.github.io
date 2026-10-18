@@ -22,21 +22,21 @@ organizations:
     url: https://www.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include efficient and robust deep learning.
+bio: My research focuses on physically plausible video generation and world models.
 
 # Interests to show in About widget
 interests:
-  - Model Compression
-  - Robustness
-  - Computational Vision
-  - Generative Model
+  - Video Generation & World Models
+  - Diffusion / Flow Matching
+  - Video-Language Understanding
+  - Efficient & Robust Deep Learning
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Computer Science
       institution: Northwestern University
-      year: 2023-Present
+      year: 2023-2028 (Expected)
     - course: Master in Electrical and Computer Engineering
       institution: Rice University
       year: 2022-2023
@@ -91,7 +91,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: shangwu2028@u.northwestern.edu
+    link: mailto:swu@u.northwestern.edu
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -119,7 +119,7 @@ social:
 highlight_name: true
 ---
 
-I am a first-year Ph.D. student in the Computer Science department at Northwestern University, advised by Professor [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) in MAGICS lab. My primary research interest lies in the efficient and robust deep learning and generative AI. Besides the school and research work, I will speed time on skydive and league of legends. Currently, I am an USPA B license skydiver :airplane:.
+I am a Ph.D. student in Computer Science at Northwestern University, advised by Professor [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) in the MAGICS Lab. My research focuses on video generation models and world models, especially physically plausible text-to-video generation (e.g., RL-based prompt refinement and physics-consistent 4D modeling), as well as video-language reasoning and flow matching. Previously, I received my M.S. from Rice University and B.S. from The George Washington University, and interned as a Research Scientist at ByteDance GenAI. Outside of research, I enjoy skydiving (USPA B license :airplane:) and League of Legends.
 
 
 

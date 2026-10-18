@@ -62,23 +62,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Scientist Intern
+          company: ByteDance (GenAI Team)
+          company_url: 'https://www.bytedance.com/'
+          location: San Jose, CA
+          date_start: '2025-06-01'
+          date_end: '2025-09-01'
+          description: Trained and scaled flow-matching text-to-video models; higher-order flow matching for video generation.
         - title: Research Assistant
-          company: Gatech-EIC-Lab
+          company: MAGICS Lab, Northwestern University
+          company_url: 'https://magics.cs.northwestern.edu/'
+          location: Evanston, IL
+          date_start: '2023-09-01'
+          date_end: ''
+          description: Video generation and world models; physically plausible text-to-video generation (PhysPrompt, Phys4D).
+        - title: Research Assistant
+          company: EIC Lab, Rice University
           company_url: 'https://eiclab.scs.gatech.edu/'
-          company_logo: 
-          location: Houston
-          date_start: '2021-07-01'
+          location: Houston, TX
+          date_start: '2021-05-01'
           date_end: '2023-05-01'
-          description: #|2-
-              Efficient and Robust deep learning
-        # - title: Professor of Semiconductor Physics
-        #   company: University X
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: California
-        #   date_start: '2016-01-01'
-        #   date_end: '2020-12-31'
-        #   description: Taught electronic engineering and researched semiconductor physics.
+          description: Efficient and robust deep learning; ViT robustness and acceleration.
+        - title: Research Assistant
+          company: Adaptive Devices and Microsystems Lab, GWU
+          location: Washington, DC
+          date_start: '2019-01-01'
+          date_end: '2021-05-01'
+          description: Memristive neuromorphic computing.
     design:
       columns: '2'
    # - block: collection
@@ -103,7 +113,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
