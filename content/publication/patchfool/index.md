@@ -31,7 +31,7 @@ publication_short: In *ICLR 2022*
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 url_pdf: 'https://arxiv.org/abs/2203.08392'
 url_code: 'https://github.com/GATECH-EIC/Patch-Fool'

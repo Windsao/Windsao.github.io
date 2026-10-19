@@ -11,5 +11,5 @@ publishDate: '2023-06-01'
 publication_types: ['paper-conference']
 publication: "In *IEEE/CVF Conference on Computer Vision and Pattern Recognition*"
 publication_short: "In *CVPR 2023*"
-featured: false
+featured: true
 ---

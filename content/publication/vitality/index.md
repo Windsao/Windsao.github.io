@@ -33,7 +33,7 @@ publication_short: In *HPCA 2023*
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 url_pdf: 'https://arxiv.org/abs/2211.05109'
 url_code: 'https://github.com/GATECH-EIC/ViTALiTy'

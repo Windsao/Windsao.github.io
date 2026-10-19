@@ -17,5 +17,5 @@ publishDate: '2022-06-01'
 publication_types: ['paper-conference']
 publication: "In *International Symposium on Computer Architecture*"
 publication_short: "In *ISCA 2022*"
-featured: false
+featured: true
 ---

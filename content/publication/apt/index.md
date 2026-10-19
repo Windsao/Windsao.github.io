@@ -15,6 +15,6 @@ publishDate: '2026-06-01'
 publication_types: ['article']
 publication: "*arXiv preprint* (Under Review)"
 publication_short: "*Preprint*"
-featured: true
+featured: false
 url_pdf: 'https://arxiv.org/abs/2606.18586'
 ---

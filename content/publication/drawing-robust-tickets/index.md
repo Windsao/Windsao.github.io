@@ -13,5 +13,5 @@ publishDate: '2021-12-01'
 publication_types: ['paper-conference']
 publication: "In *Advances in Neural Information Processing Systems*"
 publication_short: "In *NeurIPS 2021*"
-featured: false
+featured: true
 ---
